@@ -1,0 +1,6 @@
+*.pt
+*.mp4
+data/
+static/
+__pycache__/
+.env
