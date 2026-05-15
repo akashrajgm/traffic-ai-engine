@@ -3,3 +3,4 @@ ultralytics
 opencv-contrib-python-headless
 pillow
 numpy<2.0.0
+lapx
