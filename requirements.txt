@@ -1,7 +1,5 @@
-fastapi==0.104.1
-uvicorn[standard]==0.24.0.post1
-python-multipart==0.0.6
-ultralytics==8.4.37
-opencv-python-headless==4.13.0.92
-psycopg2-binary
-python-dotenvstreamlit
+streamlit
+ultralytics
+opencv-python-headless
+pillow
+numpy
